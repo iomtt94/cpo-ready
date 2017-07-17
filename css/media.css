@@ -1,0 +1,399 @@
+@media (max-width: 1200px) {
+    .main h1 {
+        font-size: 42px
+    }
+    .main span {
+        font-size: 22px
+    }
+    .order_consult {
+        font-size: 19px
+    }
+    .consult__form label {
+        width: 100%
+    }
+    .popup__form label {
+        width: 100%
+    }
+    .profitable a {
+        font-size: 14px
+    }
+    .services-item__for-key {
+        font-size: 14px
+    }
+    .services-item__price li .item-link {
+        font-size: 14px
+    }
+    .services-order .make-statement a {
+        font-size: 17px
+    }
+    .registry h2 {
+        font-size: 26px
+    }
+    .services-order h2 {
+        font-size: 26px
+    }
+    .questions h2 {
+        font-size: 26px
+    }
+    .consult h2 {
+        font-size: 26px
+    }
+    .consult__form label:nth-child(1) {
+        margin-right: 0;
+        margin-bottom: 21px
+    }
+    .popup__form label:nth-child(1) {
+        margin-right: 0;
+        margin-bottom: 21px
+    }
+    .registry__left {
+        width: 100%;
+        text-align: center
+    }
+    .registry__left > img {
+        top: -48px
+    }
+    .registry__right {
+        padding: 1% 5% 5% 5%;
+        width: 100%
+    }
+    .services-order__item:before {
+        right: 471px;
+        top: 61px
+    }
+    .services-order__item:after {
+        right: 439px;
+        top: 73px
+    }
+    .services-order__item2:before {
+        right: 342px;
+        top: 208px
+    }
+    .services-order__item3:before {
+        left: 339px
+    }
+    .services-order__item4:before {
+        right: 341px
+    }
+}
+@media (max-width: 992px) {
+    .main h1 {
+        font-size: 37px
+    }
+    .main span {
+        font-size: 18px
+    }
+    .profitable a {
+        margin-left: 0;
+        margin-top: 20px;
+        width: 100%
+    }
+    .registry h2 {
+        margin-top: 20px
+    }
+    .services-order__item {
+        width: 74.7%
+    }
+    .services-order__item:after {
+        content: none
+    }
+    .services-order__item p::after {
+        top: -55px;
+        right: -91px
+    }
+    .services-order__item:before {
+        content: none
+    }
+    .services-order__item2 {
+        width: 74.7%
+    }
+    .services-order__item2:before {
+        content: none
+    }
+    .services-order__item2 p::before {
+        left: -100px
+    }
+    .services-order__item3 {
+        width: 74.7%
+    }
+    .services-order__item3:before {
+        content: none
+    }
+    .services-order__item3 p::after {
+        right: -89px
+    }
+    .services-order__item4 {
+        width: 74.7%
+    }
+    .services-order__item4:before {
+        content: none
+    }
+    .services-order__item4 p::before {
+        left: -108px
+    }
+    .questions h2 {
+        margin-top: 40px;
+        margin-bottom: 36px
+    }
+    .accordeon a {
+        font-size: 14px
+    }
+    .consult .man {
+        display: none
+    }
+    .radio input[type="radio"] + .radio-label {
+        width: 47%
+    }
+    .radio {
+        text-align: center
+    }
+    .radio p {
+        margin-top: 21px;
+        margin-bottom: 25px
+    }
+}
+@media (max-width: 768px) {
+    .header__logo {
+        display: block;
+        text-align: center
+    }
+    .header__phone {
+        display: block;
+        text-align: center;
+        float: none
+    }
+    .header__phone a {
+        text-align: center;
+        margin-top: 10px
+    }
+    .footer .strogov {
+        text-align: center
+    }
+    .services-order__item2 p::before {
+        top: 14px
+    }
+    .services-order__item4 p::before {
+        bottom: 22px
+    }
+    .header__phone {
+        margin-top: 10px
+    }
+    .main h1 {
+        margin-top: 77px;
+        line-height: 37px;
+        font-size: 27px
+    }
+    .main span {
+        font-size: 15px
+    }
+    .main {
+        text-align: center
+    }
+    .services-item__price li .item-link {
+        right: 0px
+    }
+    .services-item h2 {
+        text-align: center
+    }
+    .services-item__calculate {
+        padding: 10% 10%
+    }
+    .profitable p {
+        text-align: center
+    }
+    .profitable p::before {
+        height: 115%
+    }
+    .registry h2 {
+        font-size: 18px
+    }
+    .gerb-block-text span {
+        font-size: 13px
+    }
+    .services-order h2 {
+        font-size: 18px
+    }
+    .services-order__item {
+        font-size: 13px
+    }
+    .services-order__item2 {
+        font-size: 13px
+    }
+    .services-order__item3 {
+        font-size: 13px
+    }
+    .services-order__item4 {
+        font-size: 13px
+    }
+    .questions h2 {
+        font-size: 18px
+    }
+    .accordeon__item li {
+        font-size: 13px
+    }
+    .consult h2 {
+        font-size: 18px
+    }
+    .popup h2 {
+        font-size: 18px
+    }
+    .consult__form input::-webkit-input-placeholder {
+        font-size: 12px
+    }
+    .popup__form input::-webkit-input-placeholder {
+        font-size: 12px
+    }
+    .consult textarea {
+        font-size: 12px
+    }
+    .popup textarea {
+        font-size: 12px
+    }
+    .radio p {
+        font-size: 13px
+    }
+    .radio input[type="radio"] + .radio-label {
+        font-size: 12px
+    }
+    .consult__form button[type="submit"] {
+        font-size: 14px
+    }
+    .popup__form button[type="submit"] {
+        font-size: 14px
+    }
+    .fancybox-close {
+        top: 7px;
+        right: 7px
+    }
+    .cd-top {
+        display: none
+    }
+}
+@media (max-width: 480px) {
+    .main h1 {
+        margin-top: 57px;
+        line-height: 33px;
+        font-size: 21px
+    }
+    .main span {
+        font-size: 14px
+    }
+    .order_consult {
+        width: auto;
+        display: block;
+        margin-top: 24px;
+        margin-left: 0
+    }
+    .services-item::after {
+        left: -19px
+    }
+    .services-item {
+        padding: 21px 13px 13px 17px
+    }
+    .services-item p {
+        font-size: 13px
+    }
+    .services-item h3 {
+        font-size: 15px
+    }
+    .services-item h3 span {
+        display: block
+    }
+    .services-item__term li {
+        font-size: 12px
+    }
+    .services-item__price li .key {
+        font-size: 12px
+    }
+    .services-item__price li .item-link {
+        right: 0px;
+        top: -6px;
+        padding: 5px 10px 5px 13px
+    }
+    .services-item__price li .value {
+        position: static;
+        margin-top: 5px
+    }
+    .services-item__price li:after {
+        border: none
+    }
+    .services-item__price li .key:nth-child(2)::after {
+        border: none
+    }
+    .services-item__for-key {
+        padding-left: 10px;
+        padding-right: 10px;
+        font-size: 13px
+    }
+    .services-item__calculate {
+        padding: 40px 20px;
+        font-size: 13px
+    }
+    .profitable::before {
+        left: -5px
+    }
+    .profitable a {
+        margin-top: 36px;
+        padding-left: 10px;
+        padding-right: 10px
+    }
+    .registry__right {
+        padding: 1% 7% 5% 7%
+    }
+    .registry__right p {
+        font-size: 12px
+    }
+    .services-order__item p::after {
+        top: -37px;
+        right: -68px
+    }
+    .services-order__item2 p::before {
+        left: -69px
+    }
+    .services-order__item3 p::after {
+        right: -67px
+    }
+    .services-order__item4 p::before {
+        left: -70px
+    }
+    .accordeon__item li {
+        font-size: 12px
+    }
+    .header__logo {
+        font-size: 13px
+    }
+    .header__phone span:nth-child(1) {
+        font-size: 17px
+    }
+    .header__phone span:nth-child(2) {
+        font-size: 19px
+    }
+    .header__phone a {
+        font-size: 14px
+    }
+    .footer .strogov {
+        margin-bottom: 10px
+    }
+    .consult__form input[placeholder] {
+        font-size: 12px
+    }
+    .order_consult {
+        font-size: 15px
+    }
+    .item-link {
+        text-align: center
+    }
+    .services-order .make-statement a {
+        font-size: 14px
+    }
+}
+@media (max-width: 856px) {
+    .outer {
+        left: 21px
+    }
+}
+@media (max-width: 1070px) and (min-width: 992px) {
+    .outer {
+        left: 30px
+    }
+}
